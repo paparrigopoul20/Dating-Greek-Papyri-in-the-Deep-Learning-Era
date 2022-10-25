@@ -1,2 +1,0 @@
-# example
-Digital Humanities Project
